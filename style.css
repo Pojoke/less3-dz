@@ -1,0 +1,29 @@
+body {
+    display: block;
+    background-image: url(./images/b70e9be101554d2f84789046b483760aq7uqxfstapl2hak_image.jpg);
+
+}
+
+h1 {
+    font-size: 64px;
+    text-align: center;
+    color: rgb(252, 252, 252);
+    font-style: italic;
+}
+
+p {
+    font-size: 28px;
+    text-align: center;
+    color: rgb(239, 124, 8);
+}
+
+button {
+    background-color: #faf4f4;
+    border-style: solid;
+    border-color: rgb(251, 161, 45);
+    display: block;
+    margin: 0 auto;
+    border-radius: 30px;
+    width: 180px;
+
+}
